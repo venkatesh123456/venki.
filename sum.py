@@ -1,0 +1,7 @@
+print("Addition")
+a=int(input("Enter first no:"))
+b=int(input("Enter second no:"))
+c=int(input("enter third no:"))
+d=int(input("enter fourth no:"))
+print("the sum value:")
+print((a+b)-(c-d)/(a))
